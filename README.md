@@ -8,6 +8,7 @@ The World Health Organization (WHO) has a sustainable development goal which aim
 To identify features that strongly predict life expectancy and to draw a clear conclusion based on the results of the model
 
 ## Project Technical Notebook/Python Code
+[Python Code](https://github.com/ANMVI/GA-final-project/blob/main/Technical_Notebook.ipynb)
 
 ## Project Presentation Slides
 
