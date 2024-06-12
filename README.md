@@ -10,6 +10,5 @@ To identify features that strongly predict life expectancy and to draw a clear c
 ## Project Technical Notebook/Python Code
 [Python Code](https://github.com/ANMVI/GA-final-project/blob/main/Technical_Notebook.ipynb)
 
-## Project Presentation Slides
-
 ## Conclusion
+Maternal mortality, sex, alcohol consumption, and suicide rates are among the top factors that determine life expectancy. Further investigation can be conducted on more complete datasets for reproducibility.
